@@ -1,0 +1,1 @@
+aims to provide a simple library for adding ocarina code support in to game loaders
